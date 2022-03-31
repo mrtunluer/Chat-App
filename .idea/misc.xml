@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/button_bg.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/dialog_window_bg.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/edit_text_bg.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/placeholder.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/ripple_back_icon.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/sent_bg.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/tab_indicator.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_main.xml" value="0.11499493414387031" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/chat_item.xml" value="0.11499493414387031" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/chat_item_received.xml" value="0.16" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/chat_item_received_img.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/chat_item_sent.xml" value="0.4" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/chat_item_sent_img.xml" value="0.6" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/chats_item.xml" value="0.19972826086956522" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/custom_progress_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/footer_item.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_chat.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_chats.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_crop.xml" value="0.152" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_edit_profile.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_my_chats.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_register.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_users.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_zoom.xml" value="0.17119565217391305" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/progress_dialog.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/send_image.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/sign_out.xml" value="0.536" />
+        <entry key="..\:/Users/LENOVO-PC/AndroidStudioProjects/ChatApp/app/src/main/res/layout/users_item.xml" value="0.23645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

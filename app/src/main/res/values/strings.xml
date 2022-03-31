@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="make_new_friends">get ready to make new friends</string>
+    <string name="register">Welcome</string>
+    <string name="have_an_account">I already have an account</string>
+    <string name="password">Password</string>
+    <string name="re_password">Password again</string>
+    <string name="email">Email</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="welcome_back">welcome back you\'ve been missed</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="name">User name</string>
+    <string name="bio">Bio</string>
+    <string name="save">Save</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="image">(image)</string>
+</resources>
