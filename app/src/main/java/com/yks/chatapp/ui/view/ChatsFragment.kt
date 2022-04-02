@@ -87,5 +87,4 @@ class ChatsFragment : Fragment() {
         _binding = null
     }
 
-
 }
